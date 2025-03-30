@@ -28,7 +28,7 @@ ai-healthcare-agent/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/abdull6771/AI-Startup-Trend-Analysis
-   cd ai-healthcare-agent
+   cd AI-Startup-Trend-Analysis
    ```
 
 2. **Install Dependencies**:
