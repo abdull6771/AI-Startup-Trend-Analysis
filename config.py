@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 # Environment setup
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
 # Initialize the LLM
 llm = ChatGroq(
